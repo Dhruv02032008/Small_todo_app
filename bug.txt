@@ -1,1 +1,3 @@
 first bug fixed
+I solve second bugs.
+thred error fixed.
